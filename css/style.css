@@ -1320,6 +1320,22 @@ h3 {
     text-align: center;
   }
 }
+@media (max-width: 767px) {
+  /* line 345, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
+  .logo h5 {
+    margin-top:-36px !important;
+  
+    
+  }
+}
+@media (max-width: 991px) {
+  /* line 345, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
+  .logo h5 {
+    padding-top: 20px;
+    
+  }
+}
+
 
 /* line 351, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
 .header-area .header-top_area .short_contact_list ul li {
@@ -1343,7 +1359,7 @@ h3 {
 
 /* line 362, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
 .header-area .header-top_area .short_contact_list ul li a i {
-  color: #FF3414;
+  color: var(--secondary);
   margin-right: 7px;
 }
 
@@ -1495,15 +1511,33 @@ h3 {
 
 .logo img {
   width:80px;
+  margin-left: 45px;
 }
 
 .logo p {
   color: var(--secondary);
   font-weight: bold;
+  font-size: 25px;
+ 
 
+}
+
+.logo h5 {
+  color: var(--primary);
+  
+  margin-top: -40px;
+  font-weight: bold;
 }
 .commitment {
   margin-top: -12px;
+}
+
+.envelope{
+  margin-left: 150px;
+}
+
+.phone {
+  margin-left: 300px;
 }
 
 
@@ -2886,9 +2920,23 @@ h3 {
   }
 }
 
+@media (max-width: 767px) {
+  /* line 245, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_contact_action.scss */
+  .contact_location .location_left .logo h5 {
+    margin-top:-36px !important;
+    
+ 
+  }
+}
+
 /* line 249, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_contact_action.scss */
 .contact_location .location_left .logo {
   margin-bottom: 40px;
+}
+
+.contact_location .location_left .logo h5 {
+  margin-top: -10px;
+  
 }
 
 /* line 256, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_contact_action.scss */
