@@ -8973,5 +8973,7 @@ h6 {
 .my-float{
 	margin-top:16px;
 }
-
+body{
+  scroll-behavior: smooth;
+}
 /*# sourceMappingURL=style.css.map */
