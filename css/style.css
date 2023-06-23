@@ -1386,7 +1386,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/quickmain.jpg);
+  background-image: url(../img/quickmain\ \(1\).webp);
 }
 
 /* line 4, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
@@ -2196,7 +2196,7 @@ h3 {
 
 /* line 2, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_testmonial.scss */
 .testimonial_area {
-  background-image: url(../img/testimonial.jpg);
+  background-image: url(../img/testimonial\ \(2\).webp);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2529,7 +2529,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_contact_action.scss */
 .contact_action_area {
-  background-image: url(../img/banner/quickmain1.jpg);
+  background-image: url(../img/quickmain\ \(1\).webp);
   position: relative;
   z-index: 0;
   padding: 138px 0;
@@ -3236,7 +3236,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_Estimate_area.scss */
 .Estimate_area {
-  background-image: url(../img/estimate.jpg);
+  background-image: url(../img/estimate\ \(1\).webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
